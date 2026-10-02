@@ -1,8 +1,6 @@
-# Tweet Content Classification
+# NLP Tweet Content Classification
 
 An end-to-end NLP portfolio project that classifies tweets as **hate speech**, **offensive language**, or **neither**.
-
-The parent `NLP` folder contains a separate concepts lab demonstrating the broader NLP workflow, from tokenization and normalization through vectorization, similarity, sentiment, POS tagging, named entities, topic modeling, embeddings, and transformers.
 
 ## Problem statement
 
