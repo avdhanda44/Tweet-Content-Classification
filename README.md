@@ -1,4 +1,4 @@
-# NLP Tweet Content Classification
+# NLP-Tweet-Content-Classification
 
 An end-to-end NLP portfolio project that classifies tweets as **hate speech**, **offensive language**, or **neither**.
 
